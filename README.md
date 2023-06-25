@@ -5,5 +5,5 @@ In a nutshell, algorithmic trading gives investors the ability to make more trad
 
 *Purchase 100 shares of the XYZ Company if the price rises to Rs. 450 before 2:00 PM. Now, the algorithmic trading order will automatically place an order for 100 shares of the XYZ company if the share price rises above Rs 450. The order will only be carried out by the algorithmic trading program, though, if the target price is reached before 2:00 PM. The directives are null and void after 2:00 PM.
 
-*If company QPR's 20-day moving average dips below the 200-day moving average prior to market close, sell 100 shares of the company. In this scenario, if the 20-day moving average of the QPR company dips below the 200-day moving average before the market closes, the algorithmic trading software will sell 100 shares of QPR. Otherwise, the order is not carried out.
+*If company QPR's 20-day moving average dips below the 200-day moving average prior to market close, sell 100 shares of the company. In this scenario, if the 20-day moving average of the QPR company dips below the 200-day moving average before the market closes, the algorithmic trading software will sell 100 shares of QPR. Otherwise, the order is not carried out
 
